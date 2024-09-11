@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Izsvan5
-- 👀 I’m interested in fortnite
-- 🌱 I’m currently learning mechwart
-- 💞️ I’m looking to collaborate on Tinder
-- 📫 How to reach me 
-- 😄 Pronouns:Mikró/processzor
-- ⚡ Fun fact:I dont like C-Type
+Hi there! 👋 Welcome to my GitHub profile
+I'm a photographer with a passion for web development and coding. Here's a bit more about me:
 
-<!---
-Izsvan5/Izsvan5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📸 Photography: I love capturing moments and telling stories through my lens.
+🌐 Web Development: I have experience building simple, clean websites with HTML and CSS.
+🐍 Currently Learning: I'm diving into the world of Python to enhance my programming skills and explore automation, data science, and more.
+Feel free to check out my projects and follow my journey as I learn and grow! 😊
+
+
