@@ -1,5 +1,5 @@
 Hi there! 👋 Welcome to my GitHub profile
-I'm a photographer with a passion for web development and coding. Here's a bit more about me:
+I'm a photographer with a passion for web development and coding. Here's a bit more about me:<br>
 
 📸 Photography: I love capturing moments and telling stories through my lens.
 🌐 Web Development: I have experience building simple, clean websites with HTML and CSS.
